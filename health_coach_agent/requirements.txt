@@ -1,0 +1,8 @@
+requests
+psutil
+ollama
+diskcache
+gradio
+loguru
+prometheus-client
+locust

@@ -1,0 +1,13 @@
+requests
+psutil
+ollama
+diskcache
+gradio
+loguru
+prometheus-client
+locust
+smolagents
+arize-phoenix 
+opentelemetry-sdk 
+opentelemetry-exporter-otlp 
+openinference-instrumentation-smolagents
